@@ -1,0 +1,8 @@
+{
+  "type": "matplotlib.matplotlib_writer.MatplotlibWriter",
+  "filepath": "/Users/Nero_Okwa/Library/CloudStorage/OneDrive-McKinsey&Company/Desktop/PyCode/batmanviz/data/08_reporting/dummy_confusion_matrix.png",
+  "run_command": "kedro run --to-outputs=dummy_confusion_matrix",
+  "preview": null,
+  "preview_type": null,
+  "stats": null
+}
